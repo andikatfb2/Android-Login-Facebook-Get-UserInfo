@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GHV</string>
+    <string name="facebook_app_id">224400054646541</string>
+    <string name="logout">Log Out</string>
+</resources>
